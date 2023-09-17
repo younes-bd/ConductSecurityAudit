@@ -26,13 +26,13 @@ analyze the audit scope, goals, and risk assessment : <br/>
 You receive the following email from your IT manager:
 Hello!
 I have completed the audit scope and goals, as well as a risk assessment. At a high level, the main goals and risks are as follows:
-Goals:
+<h2> Goals:</h2>
 Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement concept of least permissions)
 Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks
 Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments
 To review the full report, read the Botium Toys: Audit scope and goals document
 
-Risks:
+<h2> Risks::</h2>
 Inadequate management of assets
 Proper controls are not in place
 May not be compliant with U.S. and international regulations and guidelines
