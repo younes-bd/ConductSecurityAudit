@@ -50,12 +50,12 @@ Then, move on to the next step.
 
 <p align="center">
 conduct the audit: controls assessment <br/>
-
+  
+Here are the completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity.
 Links to exemplars: 
 
-Controls assessment exemplar
-
-Compliance checklist exemplar
+- Controls assessment exemplar
+- Compliance checklist exemplar
  
 
 
