@@ -54,13 +54,22 @@ conduct the audit: controls assessment <br/>
 Here are the completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity.
 Links to exemplars: 
 
-- Controls assessment exemplar
-- Compliance checklist exemplar
+- Controls assessment exemplar.
+- Compliance checklist exemplar.
+
+<p align="center">
+analyse the audit results <br/>
  
+Review the controls assessment and compliance checklist you completed in “Conduct a security audit, part 1” and consider the following, before moving on to the next step:
 
+What were the audit scope and goals? 
+What were the critical findings of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?
+What were the findings (i.e., What controls and/or policies that need to be addressed in the future)?
+How can you summarize your recommendations clearly and concisely to stakeholders?
 
-
-
+Here is a completed exemplar along with an explanation of how the exemplar fulfills the expectations for the activity.
+Link to exemplar: 
+- Stakeholder memorandum exemplar
 
 <!--
  ```diff
