@@ -49,7 +49,7 @@ Which compliance regulations does Botium Toys need to adhere to, to ensure the c
 Then, move on to the next step. 
 
 <p align="center">
-conduct the audit: controls assessment <br/>
+conduct the audit: controls assessment & Compliance checklist <br/>
   
 Here are the completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity.
 Links to exemplars: 
