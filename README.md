@@ -10,16 +10,8 @@ The IT manager starts by implementing the National Institute of Standards and Te
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2> Program walk-through: </h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
 <p align="center">
 analyze the audit scope, goals, and risk assessment : <br/>
   
@@ -97,7 +89,7 @@ Recommendations:
 - Strengthen password policies and enforce multi-factor authentication (MFA).
 - Enhance network monitoring and incident response capabilities.
 
-<h2>Security Audit 2: Cloud Security Assessment for XYZ Tech </h2>
+<h2> Security Audit 2: Cloud Security Assessment for XYZ Tech </h2>
 Date: August 3, 2028
 
 Description: Conducted a cloud security assessment for XYZ Tech, a fast-growing technology startup, to evaluate the security of their cloud infrastructure hosted on AWS (Amazon Web Services).
@@ -121,10 +113,10 @@ Recommendations:
 - Encrypt data at rest and in transit using AWS encryption services.
 - Align cloud architecture with AWS best practices for security and compliance.
  
-<h2>Security Audit 3: Application Security Assessment for Mobile Banking App</h2>
+<h2> Security Audit 3: Application Security Assessment for Mobile Banking App</h2>
 Date: October 17, 2028
 
-Description: Conducted an application security assessment for a mobile banking app developed by a financial institution to ensure the security and privacy of customer data.
+Description: Conducted an application security assessment for a mobile banking app developed by a financial institution to ensure the security and privacy of customer data.</br>
 Objectives: Identify vulnerabilities in the mobile app that could lead to data breaches or unauthorized access.
 
 Audit Scope:
@@ -138,7 +130,7 @@ Audit Findings:
 - Found that sensitive data was stored in plain text on the device.
 - Identified weak session management practices.
 - Detected insufficient input validation leading to potential code execution.
-- 
+
 Recommendations:
 - Patch the SQL injection vulnerability and implement input validation.
 - Encrypt sensitive data stored on the mobile device.
@@ -152,7 +144,7 @@ Recommendations:
 <h2> Security Audit 4: Third-Party Vendor Security Assessment for DEF Healthcare </h2>
 Date: January 9, 2029
 
-Description: Conducted a third-party vendor security assessment for DEF Healthcare, a healthcare provider that relies on multiple vendors for patient management systems and billing services.
+Description: Conducted a third-party vendor security assessment for DEF Healthcare, a healthcare provider that relies on multiple vendors for patient management systems and billing services.</br>
 Objectives: Evaluate the security controls and practices of third-party vendors to ensure the protection of patient data.
 
 Audit Scope:
@@ -177,7 +169,7 @@ Recommendations:
 <h2> Security Audit 5: Social Engineering Awareness Assessment for GHI Corporation </h2>
 Date: March 5, 2029
 
-Description: Conducted a social engineering awareness assessment for GHI Corporation, a large manufacturing company, to evaluate the susceptibility of employees to social engineering attacks.
+Description: Conducted a social engineering awareness assessment for GHI Corporation, a large manufacturing company, to evaluate the susceptibility of employees to social engineering attacks.</br>
 Objectives: Assess employee awareness of social engineering threats and evaluate the effectiveness of security training programs.
 
 Audit Scope:
@@ -198,10 +190,11 @@ Recommendations:
 - Encourage employees to report suspicious activities promptly.
 - Implement stricter controls on sharing sensitive information.
 
-<h2>Security Audit 6: Physical Security Assessment for JKL Data Center</h2>
+
+<h2> Security Audit 6: Physical Security Assessment for JKL Data Center </h2>
 Date: June 14, 2029
 
-Description: Conducted a physical security assessment for JKL Data Center, a facility hosting critical IT infrastructure for multiple clients.
+Description: Conducted a physical security assessment for JKL Data Center, a facility hosting critical IT infrastructure for multiple clients.</br>
 Objectives: Evaluate the physical security measures in place to protect data center facilities and client assets.
 
 Audit Scope:
@@ -223,15 +216,14 @@ Recommendations:
 - Conduct regular security training for staff.
 - Achieve ISO 27001 physical security certification.
   
-These additional examples showcase your expertise in assessing various aspects of cybersecurity, including third-party vendor security, social engineering awareness, and physical
- security. Customize them to fit your experiences and achievements as a cybersecurity analyst.
+These additional examples showcase your expertise in assessing various aspects of cybersecurity, including third-party vendor security, social engineering awareness, and physical security. Customize them to fit your experiences and achievements as a cybersecurity analyst.
 
 
 
-Security Audit 7: Network Security Assessment for ABC Corporation
+<h2> Security Audit 7: Network Security Assessment for ABC Corporation </h2>
 Date: August 22, 2029
 
-Description: Conducted a network security assessment for ABC Corporation, a medium-sized financial institution, to evaluate the resilience of their network infrastructure against cyber threats.
+Description: Conducted a network security assessment for ABC Corporation, a medium-sized financial institution, to evaluate the resilience of their network infrastructure against cyber threats.</br>
 Objectives: Assess the effectiveness of network security controls and identify vulnerabilities.
 
 Audit Scope:
@@ -278,10 +270,10 @@ Recommendations:
 - Align cloud security practices with CIS benchmarks for continuous compliance.
 
   
-<h2>Security Audit 9: Mobile Device Security Assessment for LMN Enterprises</h2>
+<h2> Security Audit 9: Mobile Device Security Assessment for LMN Enterprises </h2>
 Date: December 5, 2029
 
-Description: Conducted a mobile device security assessment for LMN Enterprises, a global corporation with a mobile workforce.
+Description: Conducted a mobile device security assessment for LMN Enterprises, a global corporation with a mobile workforce.</br>
 Objectives: Evaluate the security of mobile devices used by employees and contractors.
 
 Audit Scope:
@@ -305,167 +297,158 @@ Recommendations:
 These examples further demonstrate your skills in assessing diverse aspects of cybersecurity, including network security, cloud security, and mobile device security. Customize them to showcase your expertise in these areas.
 
 
-
-
-User
-give me more examples
-ChatGPT
-Certainly, here are more examples of conducting security audits as a cybersecurity analyst to include in your portfolio:
-
-Security Audit 10: Web Application Security Assessment for EFG Online Banking
-
+<h2> Security Audit 10: Web Application Security Assessment for EFG Online Banking </h2>
 Date: February 12, 2030
 
-Description: Conducted a web application security assessment for EFG Online Banking, a financial institution with a web-based banking portal.
+Description: Conducted a web application security assessment for EFG Online Banking, a financial institution with a web-based banking portal.</br>
 Objectives: Evaluate the security of their online banking application and identify vulnerabilities.
+
 Audit Scope:
+- Conducted dynamic application security testing (DAST) on the banking portal.
+- Performed source code review for critical components.
+- Assessed authentication and authorization mechanisms.
+- Reviewed session management and input validation processes.
 
-Conducted dynamic application security testing (DAST) on the banking portal.
-Performed source code review for critical components.
-Assessed authentication and authorization mechanisms.
-Reviewed session management and input validation processes.
+
 Audit Findings:
+- Identified multiple SQL injection vulnerabilities in the login and transaction processing functions.
+- Discovered insecure direct object references allowing unauthorized access to account data.
+- Found that password policies did not enforce strong password requirements.
+- Noted that session cookies lacked secure attributes
 
-Identified multiple SQL injection vulnerabilities in the login and transaction processing functions.
-Discovered insecure direct object references allowing unauthorized access to account data.
-Found that password policies did not enforce strong password requirements.
-Noted that session cookies lacked secure attributes.
 Recommendations:
+- Immediately patch and remediate SQL injection vulnerabilities.
+- Implement robust input validation to prevent injection attacks.
+- Enhance password policies to enforce strong password requirements.
+- Apply secure attributes to session cookies for better protection.
 
-Immediately patch and remediate SQL injection vulnerabilities.
-Implement robust input validation to prevent injection attacks.
-Enhance password policies to enforce strong password requirements.
-Apply secure attributes to session cookies for better protection.
-Security Audit 11: Physical Security Assessment for PQR Data Center
-
+ 
+<h2> Security Audit 11: Physical Security Assessment for PQR Data Center </h2>
 Date: April 4, 2030
 
-Description: Conducted a physical security assessment for PQR Data Center, a critical infrastructure facility hosting sensitive data for multiple clients.
+Description: Conducted a physical security assessment for PQR Data Center, a critical infrastructure facility hosting sensitive data for multiple clients.</br>
 Objectives: Evaluate the physical security controls in place to protect data center assets.
+
 Audit Scope:
+- Inspected access control systems, including biometrics and card readers.
+- Reviewed surveillance camera placements and monitoring.
+- Assessed visitor logs and badge issuance procedures.
+- Analyzed physical access restrictions and perimeter security.
 
-Inspected access control systems, including biometrics and card readers.
-Reviewed surveillance camera placements and monitoring.
-Assessed visitor logs and badge issuance procedures.
-Analyzed physical access restrictions and perimeter security.
 Audit Findings:
-
-Identified a malfunctioning biometric reader at a critical access point.
-Discovered blind spots in surveillance camera coverage.
-Found incomplete visitor logs and inadequate badge issuance controls.
-Noted that some exterior doors lacked proper access controls.
+- Identified a malfunctioning biometric reader at a critical access point.
+- Discovered blind spots in surveillance camera coverage.
+- Found incomplete visitor logs and inadequate badge issuance controls.
+- Noted that some exterior doors lacked proper access controls.
+  
 Recommendations:
+- Repair or replace the malfunctioning biometric reader.
+- Extend camera coverage to eliminate blind spots.
+- Enhance visitor log completeness and badge issuance controls.
+- Implement access controls for all exterior doors.
 
-Repair or replace the malfunctioning biometric reader.
-Extend camera coverage to eliminate blind spots.
-Enhance visitor log completeness and badge issuance controls.
-Implement access controls for all exterior doors.
-Security Audit 12: Insider Threat Assessment for UVW Technologies
 
+<h2> Security Audit 12: Insider Threat Assessment for UVW Technologies </h2>
 Date: June 19, 2030
 
-Description: Conducted an insider threat assessment for UVW Technologies, a technology company with a history of sensitive data leaks.
+Description: Conducted an insider threat assessment for UVW Technologies, a technology company with a history of sensitive data leaks.</br>
 Objectives: Evaluate the organization's susceptibility to insider threats and assess existing monitoring and prevention measures.
+
 Audit Scope:
+- Reviewed user access privileges and monitoring.
+- Analyzed data access patterns and file transfer logs.
+- Assessed employee training and awareness programs.
+- Conducted interviews with IT staff and management.
 
-Reviewed user access privileges and monitoring.
-Analyzed data access patterns and file transfer logs.
-Assessed employee training and awareness programs.
-Conducted interviews with IT staff and management.
 Audit Findings:
+- Identified several employees with excessive access privileges.
+- Discovered unusual data access patterns by a group of employees.
+- Found that employee training on insider threats was limited.
+- Noted a lack of clear procedures for reporting suspicious activity.
 
-Identified several employees with excessive access privileges.
-Discovered unusual data access patterns by a group of employees.
-Found that employee training on insider threats was limited.
-Noted a lack of clear procedures for reporting suspicious activity.
 Recommendations:
-
-Implement the principle of least privilege to restrict user access.
-Enhance monitoring of data access and file transfers.
-Develop comprehensive insider threat training for employees.
-Establish clear reporting procedures for suspicious activity.
+- Implement the principle of least privilege to restrict user access.
+- Enhance monitoring of data access and file transfers.
+- Develop comprehensive insider threat training for employees.
+- Establish clear reporting procedures for suspicious activity.
+  
 These examples illustrate your expertise in various cybersecurity domains, including web application security, physical security, and insider threat assessment. Customize them to highlight your specific skills and accomplishments in these areas.
 
 
-
-
-User
-give me more examples
-ChatGPT
-Certainly, here are more examples of conducting security audits and assessments as a cybersecurity analyst for your portfolio:
-
-Security Audit 13: Network Security Assessment for XYZ Corporation
-
+<h2> Security Audit 13: Network Security Assessment for XYZ Corporation </h2>
 Date: September 5, 2030
 
-Description: Conducted a comprehensive network security assessment for XYZ Corporation, a global manufacturing company with multiple office locations.
+Description: Conducted a comprehensive network security assessment for XYZ Corporation, a global manufacturing company with multiple office locations.</br>
 Objectives: Evaluate the overall security posture of the corporate network and identify vulnerabilities.
+
 Audit Scope:
+- Performed a vulnerability scan on all network devices.
+- Reviewed firewall configurations and rules.
+- Assessed the security of remote access and VPN solutions.
+- Conducted a network traffic analysis to detect anomalies.
 
-Performed a vulnerability scan on all network devices.
-Reviewed firewall configurations and rules.
-Assessed the security of remote access and VPN solutions.
-Conducted a network traffic analysis to detect anomalies.
+
 Audit Findings:
+- Identified outdated firmware on network routers and switches.
+- Discovered overly permissive firewall rules that posed a security risk.
+- Found weak encryption protocols in use for remote access.
+- Noted unusual patterns of network traffic suggesting potential intrusions.
 
-Identified outdated firmware on network routers and switches.
-Discovered overly permissive firewall rules that posed a security risk.
-Found weak encryption protocols in use for remote access.
-Noted unusual patterns of network traffic suggesting potential intrusions.
 Recommendations:
+- Update firmware on all network devices to the latest versions.
+- Review and tighten firewall rules to follow the principle of least privilege.
+- Upgrade remote access solutions to use stronger encryption.
+- Implement a network intrusion detection system (NIDS) to monitor for suspicious activity.
 
-Update firmware on all network devices to the latest versions.
-Review and tighten firewall rules to follow the principle of least privilege.
-Upgrade remote access solutions to use stronger encryption.
-Implement a network intrusion detection system (NIDS) to monitor for suspicious activity.
-Security Audit 14: Cloud Security Assessment for ABC SaaS Provider
 
+<h2> Security Audit 14: Cloud Security Assessment for ABC SaaS Provider </h2>
 Date: November 12, 2030
 
 Description: Conducted a cloud security assessment for ABC Software as a Service (SaaS) provider, a company offering cloud-based applications to customers.
 Objectives: Evaluate the security of their cloud infrastructure and data handling practices.
+
 Audit Scope:
-
-Reviewed AWS and Azure configurations for compliance.
-Assessed data encryption at rest and in transit.
-Analyzed identity and access management (IAM) policies.
-Examined incident response and data breach notification procedures.
+- Reviewed AWS and Azure configurations for compliance.
+- Assessed data encryption at rest and in transit.
+- Analyzed identity and access management (IAM) policies.
+- Examined incident response and data breach notification procedures.
+- 
 Audit Findings:
+- Identified publicly exposed cloud storage buckets with sensitive data.
+- Discovered inadequate encryption for data at rest.
+- Found overly permissive IAM policies allowing excessive access.
+- Noted incomplete incident response procedures.
 
-Identified publicly exposed cloud storage buckets with sensitive data.
-Discovered inadequate encryption for data at rest.
-Found overly permissive IAM policies allowing excessive access.
-Noted incomplete incident response procedures.
 Recommendations:
+- Securely configure cloud storage buckets and restrict public access.
+- Implement strong encryption for data at rest.
+- Review and refine IAM policies to follow least privilege principles.
+- Enhance incident response procedures and practice data breach notifications.
 
-Securely configure cloud storage buckets and restrict public access.
-Implement strong encryption for data at rest.
-Review and refine IAM policies to follow least privilege principles.
-Enhance incident response procedures and practice data breach notifications.
-Security Audit 15: IoT Device Security Assessment for LMN Corporation
-
+<h2> Security Audit 15: IoT Device Security Assessment for LMN Corporation </h2>
 Date: January 25, 2031
-
-Description: Conducted an Internet of Things (IoT) device security assessment for LMN Corporation, a manufacturer of connected devices.
+Description: Conducted an Internet of Things (IoT) device security assessment for LMN Corporation, a manufacturer of connected devices</br>
 Objectives: Evaluate the security of their IoT devices and ecosystem.
+
 Audit Scope:
-
-Assessed the security of device firmware and software.
-Reviewed device authentication and access controls.
-Analyzed data transmission and encryption practices.
-Tested the resilience of devices to physical tampering.
+- Assessed the security of device firmware and software.
+- Reviewed device authentication and access controls.
+- Analyzed data transmission and encryption practices.
+- Tested the resilience of devices to physical tampering.
+- 
 Audit Findings:
+- Identified outdated firmware in some devices.
+- Discovered hardcoded credentials in device software.
+- Found weak encryption practices for data transmission.
+- Noted physical vulnerabilities in device housing.
 
-Identified outdated firmware in some devices.
-Discovered hardcoded credentials in device software.
-Found weak encryption practices for data transmission.
-Noted physical vulnerabilities in device housing.
+
 Recommendations:
-
-Establish a regular firmware update process for IoT devices.
-Remove hardcoded credentials and implement strong authentication.
-Enhance data encryption for device-to-cloud communication.
-Improve physical security mechanisms for device housing.
+- Establish a regular firmware update process for IoT devices.
+- Remove hardcoded credentials and implement strong authentication.
+- Enhance data encryption for device-to-cloud communication.
+- Improve physical security mechanisms for device housing.
+- 
 These examples cover a range of cybersecurity assessments, including network security, cloud security, and IoT device security. Customize them to showcase your expertise and contributions as a cybersecurity analyst in different domains.
 
 
